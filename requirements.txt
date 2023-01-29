@@ -1,0 +1,3 @@
+opencv-python
+uiautomator2
+pillow
